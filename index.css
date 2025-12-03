@@ -1,3 +1,9 @@
+p {
+  margin-top: 1rem;
+  line-height: 1.6;
+  text-align: justify;
+}
+
 /* ============================================
    STYLES DE BASE ET THÈME CYBER (Pure CSS)
    ============================================ */
@@ -402,4 +408,5 @@ body {
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 30px; /* Ajustez cette valeur si votre header est plus grand */
+
 }
